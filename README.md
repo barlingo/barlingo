@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there | ¡Bienvenido/a! 👋 
+- 🐍 I write Python automation code for my current job.
+- 🌱 I'm learning Rust 🦀 in my spare time.
+- 💊 VIM and Linux enthusiasm.
 
 <!--
 **barlingo/barlingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
